@@ -1,0 +1,29 @@
+.arkaplan{
+    height: 84vh;
+    background: #354144;
+}
+.kutu{
+    background-color: white;
+    position: relative;
+    top: 100px;
+    width: 400px;
+    height: 600px;
+    left: 40%;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.8);
+    border-radius: 30px;
+}
+.kutu:hover{
+    transform: scale(1.05);
+}
+.kutu a{
+    position: relative;
+    top: 5%;
+    left: 34%;
+    font-weight: 700;
+    font-size: 25px;
+}
+.isim{
+    position: relative;
+    top: 20%;
+    left: 0px;
+}
